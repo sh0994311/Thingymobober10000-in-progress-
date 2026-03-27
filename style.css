@@ -54,7 +54,7 @@ header {
 }
 
 .fakeA {
-  font-size: 1.2vw;
+  font-size: 1.6vw;
   color: #00f;
   text-shadow: #00f 0 0 5px;
   transition: color 0.1s, text-shadow 0.1s;
